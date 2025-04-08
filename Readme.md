@@ -7,10 +7,13 @@ Oh... and I have two magic dogs 🐶🐶💖!
 
 
 ## Something about me:
-* test
-* test 2
+* 🎮 💻 My career it is ever on programming and new tecnologies for gaming and commodities. 
+* 🚵‍♂️I like the mountain and nature.
+* 🥊 🏃 🚴‍♂️ 🧗‍♂️ I practice lot of sports.
 
-## Special Thanks 🙇
+
+## Special Thanks and Support 🙇 🙏
+Everything you can find on my GitHub profile, thanks and write me for grow up. 
 
 
 
