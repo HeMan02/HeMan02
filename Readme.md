@@ -4,7 +4,7 @@ In my free time I dedicate myself to some open source projects on Game Developme
 Oh... and I have two lovely dogs 🐶🐶💖!
 
 ## Something about me:
-* 🎮 💻 I'm currently working as a Lead Software Developer. In my careere i create and manage a lot of projects. I like collaborate with the team and i love create a good mood for working all( assieme).
+* 🎮 💻 I'm currently working as a Lead Software Developer in a team of 8 members helping out with scalability and training Junior members on the team.
 * 🚵‍♂️ I like the mountains and nature.
 * 🥊 🏃 🚴‍♂️ 🧗‍♂️ I practice a lot of sports.
 
