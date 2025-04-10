@@ -1,21 +1,13 @@
 <h1 align="center">Hi there, I'm Luca Musso 👋 </h1>
-I’m a software developer from Italy.
-in my free time I dedicate myself to some open source projects on gaming.
-Oh... and I have two magic dogs 🐶🐶💖!
-
-
-
+I’m a software developer from Turin, Italy.
+In my free time I dedicate myself to some open source projects on Game Development. 
+Oh... and I have two lovely dogs 🐶🐶💖!
 
 ## Something about me:
-* 🎮 💻 My career it is ever on programming and new tecnologies for gaming and commodities. 
-* 🚵‍♂️I like the mountain and nature.
-* 🥊 🏃 🚴‍♂️ 🧗‍♂️ I practice lot of sports.
+* 🎮 💻 I'm currently working as a Lead Software Developer. In my careere i create and manage a lot of projects. I like collaborate with the team and i love create a good mood for working all( assieme).
+* 🚵‍♂️ I like the mountains and nature.
+* 🥊 🏃 🚴‍♂️ 🧗‍♂️ I practice a lot of sports.
 
 
-## Special Thanks and Support 🙇 🙏
-Everything you can find on my GitHub profile, thanks and write me for grow up. 
-
-
-
-
-
+## Special Thanks and Support 🙇
+Everything you can find on my GitHub profile are made in my free time, thanks to anyone that find the time to help me out and contribute  🙏
