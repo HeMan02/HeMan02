@@ -6,6 +6,12 @@ Oh... and I have two lovely dogs 🐶🐶💖!
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/219bcc70-f5dc-466b-9a60-29653d8e8433" width="500">
 </div>
 
+## Portfolio:
+I’m a software developer with over ten years of experience, starting my journey with Unity3D and C#, a combination I continue to work with today. My background has given me a solid understanding of object-oriented programming, software architecture, and system design.
+
+Along the way, I’ve gained experience with MySQL for database management, JSON for data storage and communication, and Vue.js for building modern and efficient frontend interfaces. I use Git daily for version control and collaborative workflows, ensuring consistency and reliability across development environments.
+
+Over the years, I’ve grown from contributing to small development teams to coordinating and supporting larger, more complex projects involving multiple resources. I focus on writing clean, maintainable code, fostering good communication within teams, and designing solutions that are both scalable and sustainable over time.
 
 
 ## Something about me:
